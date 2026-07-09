@@ -139,7 +139,7 @@ function mostrarResultado() {
 
         <a class="botao"
         target="_blank"
-        href="https://wa.me/5521967010016?text=Olá Ronald! Acabei de fazer o quiz do seu site e gostaria de entender melhor meu resultado.">
+        href="https://wa.me/5521975760183?text=Olá Ronald! Acabei de fazer o quiz do seu site e gostaria de entender melhor meu resultado.">
             Conversar pelo WhatsApp
         </a>
 
